@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋，我是 Ennan</h1>
+
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Ennan010&show_icons=true&theme=radical" alt="Ennan010's GitHub stats" /> -->
-  <img src="https://readme-stats-xi-ten.vercel.app/api?username=Ennan010&show_icons=true&theme=radical&cache_seconds=86400" alt="Ennan010's GitHub stats" />
+  <img src="assets/hello.gif" width="200" alt="hi~" />
 </p>
+
+<h1 align="center">Hi 👋，我是 Ennan</h1>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ennan010&show_icons=true&theme=radical&cache_seconds=86400" alt="Ennan010's GitHub stats" />
+</p> -->
 
 <p align="center">
   <a href="https://ennan010.github.io/" target="_blank">
@@ -12,10 +16,10 @@
 
 ---
 
-## 🧑‍💻 关于我
+## ✨ About Me
 
 - 🔭 目前专注于前端开发与计算机视觉方向，研究内容包括裂缝检测等
-- 🌱 正在学习 React、Vue、TypeScript、Mamba 模型
+- 🌱 正在学习 React、Vue、TypeScript、Mamba 模型、Langchain
 - 💬 欢迎交流技术与想法
 - 📫 联系方式：
   - len_010@qq.com（recommend）
@@ -37,13 +41,6 @@
 
 ## 📈 数据与统计
 
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ennan010&layout=compact&theme=radical" alt="Top Langs" /> -->
-  <img src="https://readme-stats-xi-ten.vercel.app/api/top-langs/?username=Ennan010&layout=compact&theme=radical&cache_seconds=86400" alt="Top Langs" />
-</p>
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ennan010&theme=github-compact" alt="activity graph" />
-</p> -->
 
 <p align="center">
   <img src="https://stats.justsong.cn/api/csdn?id=weixin_46681416" alt="CSDN 博客数据" />
@@ -63,8 +60,6 @@
   </a>
 </p>
 
----
 
-<!-- <p align="center">
-  <img src="assets/miku.gif" width="200" alt="hi~" />
-</p> -->
+
+---
